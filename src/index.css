@@ -5,9 +5,37 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #3D1F62;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.custom {
+  background: #F1C3B7;
+  color: #003162;
+  font-weight: bold;
+}
+
+.name {
+  color: #222;
+}
+
+.custom-button {
+  background: #F1C3B7;
+  padding-inline: 2em;
+}
+
+.custom-button:hover {
+  background: none;
+  border: solid 1px #F1C3B7;
+  color: #F1C3B7;
+}
+
+.loading {
+  font-size: 3rem;
+  color: #F1C3B7;
+}
+
