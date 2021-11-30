@@ -6,7 +6,7 @@
 
 https://generate-quote-app.netlify.app/
 
-## Dependencies
+## Concepts used
 
 React-reactor-dom
 
